@@ -44,47 +44,34 @@ This explorer visualizes multi-trait functional morphospaces generated via block
 .
 ├── index.html         # Main web application (HTML5, Tailwind CSS, Plotly.js, Lucide Icons)
 ├── img/               # Morphological trait drawings directory
-│   ├── 1A.png         # Selective deposit feeder (Buccal cavity)
-│   ├── 1B.png         # Non-selective deposit feeder (Buccal cavity)
-│   ├── 2A.png         # Epistratum feeder (Buccal cavity)
-│   ├── 2B.png         # Predator / Omnivore (Buccal cavity)
+│   ├── 1A.png         
+│   ├── 1B.png         
+│   ├── 2A.png         
+│   ├── 2B.png         
 │   ├── extendedlips.png
-│   ├── pore.png       # Inconspicuous / Pore amphid
-│   ├── slit.png       # Longitudinal slit amphid
-│   ├── circular.png   # Circular amphid
+│   ├── pore.png      
+│   ├── slit.png      
+│   ├── circular.png  
 │   ├── criptospiral.png
 │   ├── spiral.png
 │   ├── unispiral.png
-│   ├── pocket.png     # Pocket / Cup-shaped amphid
+│   ├── pocket.png     
 │   ├── vesicular.png
 │   ├── photoreceptor.png
-│   ├── smooth.png     # Smooth cuticle
-│   ├── annulated.png  # Annulated cuticle
-│   ├── punct.png      # Punctuated cuticle
-│   ├── plates.png     # Cuticular plates
-│   ├── swolen.png     # Indistinct / Slightly swollen pharyngeal bulb
-│   ├── rounded.png    # Rounded bulb
-│   ├── double.png     # Double bulb
-│   ├── elongated.png  # Elongated bulb
-│   ├── conical.png    # Conical tail
-│   ├── shortrounded.png # Short & rounded tail
-│   ├── clavated.png   # Clavate tail
-│   └── filiform.png   # Elongated filiform tail
-└── README.md          # Repository documentation
+│   ├── smooth.png     
+│   ├── annulated.png  
+│   ├── punct.png      
+│   ├── plates.png    
+│   ├── swolen.png     
+│   ├── rounded.png   
+│   ├── double.png    
+│   ├── elongated.png  
+│   ├── conical.png    
+│   ├── shortrounded.png 
+│   ├── clavated.png   
+│   └── filiform.png   
+└── README.md          
 ```
-
----
-
-## 🚀 How to Run Locally
-
-No server setup or dependencies installation is required.
-
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-username/nematode-morphospace.git
-   ```
-2. Ensure the `img/` folder is in the same directory as `index.html`.
-3. Open `index.html` directly in any modern web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari).
 
 ---
 
@@ -95,20 +82,21 @@ To host the interactive explorer online:
 1. Push this repository to GitHub.
 2. Go to **Settings > Pages** in your GitHub repository.
 3. Under **Branch**, select `main` (or `master`) and folder `/ (root)`.
-4. Click **Save**. Your interactive explorer will be published at `https://<your-username>.github.io/<repository-name>/`.
+4. Click **Save**. Your interactive explorer will be published at `https://<martagcobo>.github.io/<nematoda-morphospace>/`.
 
 ---
 
-## 📖 How to Cite
+## 🚀 How to Run Locally
 
-If you use this visualization tool, dataset, or code in your research, please cite:
+No server setup or dependencies installation is required.
 
-```text
-[Authors]. (2026). Are caves environmental filters for nematode body forms? 
-[Journal Name] (Under Peer Review).
-```
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/martagcobo/nematoda-morphospace.git
+   ```
+2. Ensure the `img/` folder is in the same directory as `index.html`.
+3. Open `index.html` directly in any modern web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari).
 
-*Note: Citation details, DOI, and journal reference will be updated upon formal manuscript publication.*
 
 ---
 
